@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://newsroom.cisco.com/c/dam/r/newsroom/en/us/migrated-assets/netAcad-camille-stephanie-feature_800x450_thumb_021121_animated-gif-2140879-1-0.gif"> 
 
-- 🔭 I’m currently working on **TypeScript**
+- 🔭 I’m currently working on **Android Application Development**
 
 - 🌱 I’m currently learning **React Native, Felgo**
 
